@@ -1,0 +1,51 @@
+store_id,store_name,store_type,floor,store_size
+1,Santos-Phillips,Salon,1,249
+2,"Johnson, White and Simmons",Food,1,1318
+3,Oliver-Paul,Food,3,1680
+4,Maxwell-Chandler,Food,2,1810
+5,Ortiz LLC,Food,2,229
+6,"Donovan, Richards and Pena",Salon,2,875
+7,Knight and Sons,Clothing,3,1765
+8,Gardner and Sons,Cinema,2,519
+9,Guerrero Inc,Salon,4,1640
+10,Gardner-Dodson,Salon,3,835
+11,White-Perez,Furniture,4,224
+12,"Rojas, Miller and Brown",Electronics,3,836
+13,Ward-Morales,Food,3,695
+14,Munoz-West,Salon,2,1011
+15,Reyes-Jefferson,Clothing,4,441
+16,Chavez Ltd,Cinema,2,1620
+17,"Johnson, Howard and King",Food,2,674
+18,Allen Ltd,Food,3,644
+19,Brown PLC,Clothing,2,1291
+20,Williams LLC,Cinema,1,731
+21,Burns Ltd,Food,1,831
+22,"Herrera, Flores and Rivera",Food,2,392
+23,Webster-Mason,Salon,3,1044
+24,"Tapia, Frank and Calderon",Electronics,3,1761
+25,Johnson PLC,Electronics,1,752
+26,Young Inc,Clothing,3,1321
+27,"Wright, Wilson and Burton",Salon,2,1900
+28,Clark LLC,Clothing,2,1004
+29,"Moon, Gates and Roberts",Salon,2,1463
+30,"Garcia, Wright and Rodriguez",Clothing,2,1139
+31,"Richardson, Johnson and Cook",Clothing,2,1990
+32,"Austin, Davis and Vazquez",Furniture,2,1535
+33,Hooper-Walton,Cinema,3,668
+34,Acosta-Barnes,Furniture,2,648
+35,"Robinson, Scott and Anderson",Food,2,1969
+36,Martin Inc,Food,1,226
+37,Lee Ltd,Salon,3,1926
+38,Daniel-Frey,Clothing,1,1006
+39,"Mendez, Torres and Rivera",Salon,2,1825
+40,"Wallace, Velasquez and Walters",Cinema,1,337
+41,Gordon-Johnson,Cinema,2,391
+42,"Duncan, Burton and Johnson",Electronics,3,1552
+43,"Fuller, Myers and Nelson",Clothing,3,205
+44,"Williams, Mason and Castro",Salon,3,315
+45,Barnes-Donaldson,Food,2,301
+46,Bonilla PLC,Clothing,4,398
+47,Jackson PLC,Clothing,2,924
+48,Carpenter-Martin,Furniture,3,606
+49,"Bowman, Johnson and Lawson",Food,1,324
+50,Thomas-Rubio,Food,4,1503
